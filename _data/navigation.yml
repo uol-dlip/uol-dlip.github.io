@@ -128,8 +128,6 @@ footermenus:
         url: https://www.lib.cam.ac.uk/collections
   - title: Tools and Utilities
     items:
-      - title: Edit this page (restricted access)
-        url: {{site.github.repository_url}}/blob/gh-pages/{{page.path}}
 
 # Footer Information consists of links to key pages on the site.
 # Each site should have its own Accessibility and Privacy pages
