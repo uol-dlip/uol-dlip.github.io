@@ -83,10 +83,10 @@ mainmenu:
 
 # sectionmenu: sectionname
 
-sections:
-  documentation:
-    title: Documentation
-    items:
+#sections:
+#  documentation:
+#    title: Documentation
+#    items:
 #      - title: 
 #        url: 
 
